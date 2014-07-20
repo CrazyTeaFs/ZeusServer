@@ -17,6 +17,7 @@
  */
 #include    "RIO.h"
 
+
 /*
  * DES: Our internal fundation read function which has a internal buffer.
  * It will be called in our following different reading functions.
